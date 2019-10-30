@@ -27,5 +27,5 @@ The edge detection are mainly inspired by [Roystan Ross's blog], please go check
 
 Also. thanks to [Thomas Poulet's Ni No Kuni 2: frame analysis] article.
 
-[Roystan Ross's blog]: https://docs.unity3d.com/Manual/SL-ShaderReplacement.html
+[Roystan Ross's blog]: https://roystan.net/articles/outline-shader.html
 [Thomas Poulet's Ni No Kuni 2: frame analysis]: https://blog.thomaspoulet.fr/ninokuni2-frame/
